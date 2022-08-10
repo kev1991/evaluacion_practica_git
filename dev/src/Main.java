@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //Declaramos las variables
+        //Declaramos las variables lll
         int num1=30;
         int num2=15;
 
